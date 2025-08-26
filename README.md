@@ -73,7 +73,7 @@ WHERE prestamo.estado = 'devuelto';
 -- 3. Mostrar cuántos libros ha prestado cada estudiante
 SELECT estudiante.nombre, COUNT(*) AS total_prestamos
 FROM prestamo
-JOIN estudiante ON prestamo.estudiante_id = Estudiante.id
+JOIN estudiante ON prestamo.estudiante_id = estudiante.id
 GROUP BY estudiante.nombre;
 
 -- 4. Consultar los libros que nunca han sido prestados
