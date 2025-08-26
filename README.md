@@ -18,7 +18,7 @@ Los alumnos deberán identificar las siguientes entidades y relaciones:
 
 Relaciones:   
 - Un estudiante puede pedir prestados varios libros   
-- UN libro puede ser prestado muchas veces, pero solo una vez a la vez   
+- Un libro puede ser prestado muchas veces, pero solo una vez a la vez   
 
 ### Parte 2: Creación de tablas
 
