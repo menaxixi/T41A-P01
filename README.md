@@ -5,7 +5,7 @@ Entidad relación PostgreSQL
 
 Objetivo:   
 
-Crear una base de datos PostgreSQL que modele el sistema de prestamos de libros   
+Crear una base de datos PostgreSQL que modele el sistema de préstamos de libros   
 en una biblioteca universitaria. Los alumnos deberán diseñar las tablas, establecer    
 relaciones entre ellas y realizar consultas básicas.   
 
